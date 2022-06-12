@@ -1,0 +1,50 @@
+
+
+@font-face { 
+    font-family: Cera Pro; src: url('../fonts/cera\ pro\ font/Cera Pro Regular Italic.ttf'); 
+}
+
+body {
+    margin: 0px;
+    background-color: #131313;
+    font-family: Cera Pro;
+}
+body * {
+    box-sizing: border-box;
+}
+
+.eins {
+    display: flex;
+    margin-bottom: 144px;
+}
+.eins > p {
+    font-family: 'Cera Pro';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 84px;
+    line-height: 106px;
+    color: #FFFFFF;
+    width: 452px;
+    height: 509px;
+    margin-right: 212px;
+    margin-left: 100px;
+    margin-top: 178px;
+    margin-bottom: 0;
+}
+#opasnosty {
+    width: 499px;
+    height: 574px;
+    margin-top: 146px;
+}
+
+img [src="images/line.jpg"] {
+    width: 791.91px;
+    height: 82.49px;
+}
+.line {
+    display: flex;
+    justify-content: flex-end;
+}
+
+
+
