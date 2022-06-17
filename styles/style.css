@@ -104,12 +104,25 @@ img [src="images/line.jpg"] {
 
 
 
+
 .drei {
     display: flex;
-    justify-content: flex-end;
+    margin-top: 146px;
 }
-
+.mitKWAKWA {
+    width: 473.31px;
+    height: 630.44px;
+    transform: rotate(-16.54deg);
+    position: relative;
+    z-index: -1;
+}
+.sex {
+    width: 374.28px;
+    height: 657.82px;
+    margin-left: -157px;
+}
 .drei > div {
+    margin-left: 100px;
     margin-right: 79px;
 }
 .drei h2 {
@@ -260,6 +273,8 @@ img [src="images/line.jpg"] {
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     background-clip: text;
+    margin-top: 0;
+    margin-bottom: 27px;
 }
 .sechs > p {
     font-family: 'Cera Pro';
@@ -269,6 +284,7 @@ img [src="images/line.jpg"] {
     line-height: 35px;
     text-align: center;
     color: #D9D9D9;
+    margin-top: 0;
 }
 .sechs > div {
     display: flex;
